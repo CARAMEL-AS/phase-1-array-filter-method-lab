@@ -50,7 +50,8 @@ describe('index.js', function () {
         {
           name: 'Bobby',
           hometown: 'Pittsburgh' },
-        {
+        {   //function matchName(names, string) {
+            //return names.filter(name => name.name === string)}
           name: 'Sammy',
           hometown: 'New York' } ,
         {
